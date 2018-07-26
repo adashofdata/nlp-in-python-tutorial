@@ -16,4 +16,4 @@ Go to github.com/adashofdata and follow the four steps in the README.md file.
 * **Web scraping**
    * Inspect Element in Chrome: Command+Shift+C
 * **Regular expressions**
-   * Website to test regular expressions: regex101.com
+   * [Website](www.regex101.com) to test regular expressions
