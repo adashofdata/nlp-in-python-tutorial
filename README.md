@@ -28,4 +28,4 @@ Open the Anaconda Prompt program. You should see a black window pop up. Type `co
 *Mac/Linux:*
 Your terminal should already be open. Type command-t to open a new tab. Type `conda install -c conda-forge wordcloud` to download wordcloud. You will be asked whether you want to proceed or not. Type `y` for yes. Once that is done, type `conda install -c conda-forge textblob` to download textblob and `y` to proceed, and type `conda install -c conda-forge gensim` to download gensim and `y` to proceed.
 
-If you have any issues, please email me at adashofdata@gmail.com or come talk to me before the start of the tutorial on Saturday.
+If you have any issues, please email me at adashofdata@gmail.com or come talk to me before the start of the tutorial.
